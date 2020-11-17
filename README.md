@@ -3,10 +3,10 @@
 This is a full Realtime Chat Application.   
 Here, React used on the front end, with NodeJS and Socket.io web socket library on the back end.
 
-###_Joing Page_   
+### _Joing Page_   
 
 ![RealTimeChatApp](https://user-images.githubusercontent.com/51189196/99439735-c9305b00-293f-11eb-8d0b-a965a8c68ac9.PNG)
-###_Chat Page_   
+### _Chat Page_   
 
 ![image](https://user-images.githubusercontent.com/51189196/99440607-021cff80-2941-11eb-9f02-e17f4bae69a3.png)    
 
